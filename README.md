@@ -58,7 +58,7 @@ Fondateur du **Next Economy Club**, une communauté qui promeut l’économie, l
 
 ## 🔗 Ressources
 
-- 📄 **Rapport complet (PDF)** : [Télécharger ici](./marche_du_travail_CIV.pdf)
+- 📄 **Rapport complet (PDF)** : [Télécharger ici](https://github.com/Medoune-data/analyse-marche-travail-CIV-2000-2024/blob/main/marche%20du%20travail%20en%20cote%20d'ivoire%20(2000-2024)(1).pdf)
 - 🌍 **Données sources** : [Banque mondiale – World Development Indicators](https://data.worldbank.org)
 - 💬 **Discussion et échanges** : via le [Next Economy Club](https://t.me/+M-PbGJud35o3ZmY0)
 
